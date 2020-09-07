@@ -30,23 +30,21 @@ There also seems to be a [[https://link.springer.com/content/pdf/10.1007/3-540-5
 *** A Theory of programming Language Semantics
 Robin Milne and Christopher Strachey
 
- *** Denotational Semantics: The Scott-Strachey Approach to programming Language Theory
+*** Denotational Semantics: The Scott-Strachey Approach to programming Language Theory
  
 *** Fundamental Concepts in Programming Languages
 Christopher Strachey
 
 The famous paper that introduce L-values, R-values, and brought much needed conceptual clarity to the field.
  
- ** Category Theoretic Semantics
+** Category Theoretic Semantics
  
- *** Computational Category Theory
- Rydeheard and Burstall
+*** Computational Category Theory
+Rydeheard and Burstall
  
- ** Axiomatic Semantics
+** Axiomatic Semantics
  
- *** [[https://archive.is/5XxJ0][An axiomatic basis for computer programming]]
- C.A.R Hoare
- 
-
+*** [[https://archive.is/5XxJ0][An axiomatic basis for computer programming]]
+C.A.R Hoare
 
 * Pragmatics
