@@ -12,7 +12,7 @@ A collection of notes and resources on understanding language theory.
 
 ** Operational Semantics
 
-Landin’s work on creating the SECD system is considered as the beginning of operational semantics.
+Landin’s work on interpreting the semantic content of programming languages as mapping to Lambda Calculus marks the beginning of work on operational semantics. He created the SECD system in his paper called Mechanical Evaluation of Expressions which lead to quite a few follow up work in the field.
 
 ** [[https://archive.is/e4xeZ][The mechanical evaluation of expressions]]
 *** Peter Landin, 1964
@@ -36,6 +36,9 @@ Robin Milne and Christopher Strachey
 Christopher Strachey
 
 The famous paper that introduce L-values, R-values, and brought much needed conceptual clarity to the field.
+
+*** Definitional interpreters for higher-order programming languages (1998)
+John Reynolds
  
 ** Category Theoretic Semantics
  
