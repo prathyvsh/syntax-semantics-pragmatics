@@ -39,6 +39,11 @@ The famous paper that introduce L-values, R-values, and brought much needed conc
 
 *** Definitional interpreters for higher-order programming languages (1998)
 John Reynolds
+
+** To describe
+
+*** Fix point operators
+*** Full abstraction
  
 ** Category Theoretic Semantics
  
