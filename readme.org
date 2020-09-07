@@ -9,6 +9,10 @@ A collection of notes and resources on understanding language theory.
 ** Surveys
 
 *** [[http://aleteya.cs.buap.mx/~jlavalle/flp/understanding-programming-languages.pdf][Understanding Programming Languages]]
+Read (7 September 2020)
+
+The paper describes the Formalist vs. Platonic divide in the semantic studies that emerged in the 1960s.
+Author qualifies operational semantics as mapping one language to another with its execution mapped to reduction/evaluation in the mapped language. One prominent example is the use of Lambda Calculus abstraction/application used to map to functional procedures and calls.
 
 ** Operational Semantics
 
