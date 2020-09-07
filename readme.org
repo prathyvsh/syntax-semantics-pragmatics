@@ -40,9 +40,15 @@ The famous paper that introduce L-values, R-values, and brought much needed conc
 *** Definitional interpreters for higher-order programming languages (1998)
 John Reynolds
 
+*** [[https://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf][Call by Name, Call by Value, and the Lambda Calculus]]
+Gordon Plotkin, 1974
+
+An [[https://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf][intro]] to the work by Ben Greenman. 
+
 ** To describe
 
 *** Fix point operators
+*** Confluence / Church–Rosser Property
 *** Full abstraction
  
 ** Category Theoretic Semantics
