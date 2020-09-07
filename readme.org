@@ -20,6 +20,9 @@ Landin’s work on interpreting the semantic content of programming languages as
 ** [[https://web.eecs.umich.edu/~weimerw/2006-615/reading/plotkin81structural.pdf][A Structural Approach to Operational Semantics]]
 *** Gordon Plotkin (1981)
 
+** A natural deduction treatment of operational semantics
+Burstall and Honsell (1988)
+
 ** Denotational Semantics
 
 *** [[https://link.springer.com/chapter/10.1007/978-1-4612-4118-8_3][The Varieties of programming languages]]
