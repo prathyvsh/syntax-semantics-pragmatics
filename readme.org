@@ -1,0 +1,52 @@
+* Syntax, Semantics, Pragmatics
+
+A collection of notes and resources on understanding language theory.
+
+* Syntax
+
+* Semantics
+
+** Surveys
+
+*** [[http://aleteya.cs.buap.mx/~jlavalle/flp/understanding-programming-languages.pdf][Understanding Programming Languages]]
+
+** Operational Semantics
+
+Landin’s work on creating the SECD system is considered as the beginning of operational semantics.
+
+** [[https://archive.is/e4xeZ][The mechanical evaluation of expressions]]
+*** Peter Landin, 1964
+
+** [[https://web.eecs.umich.edu/~weimerw/2006-615/reading/plotkin81structural.pdf][A Structural Approach to Operational Semantics]]
+*** Gordon Plotkin (1981)
+
+** Denotational Semantics
+
+*** [[https://link.springer.com/chapter/10.1007/978-1-4612-4118-8_3][The Varieties of programming languages]]
+Christopher Strachey
+
+There also seems to be a [[https://link.springer.com/content/pdf/10.1007/3-540-50939-9_121.pdf][Hoare version]] with same title.
+
+*** A Theory of programming Language Semantics
+Robin Milne and Christopher Strachey
+
+ *** Denotational Semantics: The Scott-Strachey Approach to programming Language Theory
+ 
+*** Fundamental Concepts in Programming Languages
+Christopher Strachey
+
+The famous paper that introduce L-values, R-values, and brought much needed conceptual clarity to the field.
+ 
+ ** Category Theoretic Semantics
+ 
+ *** Computational Category Theory
+ Rydeheard and Burstall
+ 
+ ** Axiomatic Semantics
+ 
+ *** [[https://archive.is/5XxJ0][An axiomatic basis for computer programming]]
+ C.A.R Hoare
+ 
+
+
+* Pragmatics
