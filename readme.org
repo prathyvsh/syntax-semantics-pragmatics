@@ -14,6 +14,13 @@ Read (7 September 2020)
 The paper describes the Formalist vs. Platonic divide in the semantic studies that emerged in the 1960s.
 Author qualifies operational semantics as mapping one language to another with its execution mapped to reduction/evaluation in the mapped language. One prominent example is the use of Lambda Calculus abstraction/application used to map to functional procedures and calls.
 
+This is contrasted with Denotational Semantics which maps to mathematical entities that exists outside the language. One of Dana Scott’s criticism of Operational Semantics was that the untyped nature of Lambda Calculus showed that there wasn’t a way to identify it with mathematical objects.
+
+*** The Definition of Programming Languages
+A.D. McGettrick
+
+A survey of formal aspect of programming languages with details on semantics.
+
 ** Operational Semantics
 
 Landin’s work on interpreting the semantic content of programming languages as mapping to Lambda Calculus marks the beginning of work on operational semantics. He created the SECD system in his paper called Mechanical Evaluation of Expressions which lead to quite a few follow up work in the field.
@@ -43,6 +50,9 @@ Robin Milne and Christopher Strachey
 Christopher Strachey
 
 The famous paper that introduce L-values, R-values, and brought much needed conceptual clarity to the field.
+
+*** [[https://www.cs.cmu.edu/~kw/scans/scott93tcs.pdf][A Type Theoretical Alternative to ISWIM, CUCH, OWHY]]
+Dana Scott (1993)
 
 *** Definitional interpreters for higher-order programming languages (1998)
 John Reynolds
