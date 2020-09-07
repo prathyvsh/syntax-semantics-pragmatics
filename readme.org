@@ -6,6 +6,8 @@ A collection of notes and resources on understanding language theory.
 
 * Semantics
 
+Some key figures of this field are Dana Scott, Christopher Strachey, Peter Landin, John McCarthy, Gordon Plotkin, John Reynolds.
+
 ** Surveys
 
 *** [[http://aleteya.cs.buap.mx/~jlavalle/flp/understanding-programming-languages.pdf][Understanding Programming Languages]]
@@ -20,6 +22,12 @@ This is contrasted with Denotational Semantics which maps to mathematical entiti
 A.D. McGettrick
 
 A survey of formal aspect of programming languages with details on semantics.
+
+*** [[https://archive.is/FY1Hu][A Mathematical Theory of Computation?]]
+Simone Martini (2017)
+
+*** [[http://www.cs.unibo.it/~martini/papers-to-ftp/AMTC.pdf][The standard model for programming languages: The birth of a mathematical theory of computation]]
+Simone Martini (2020)
 
 ** Operational Semantics
 
@@ -60,7 +68,14 @@ John Reynolds
 *** [[https://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf][Call by Name, Call by Value, and the Lambda Calculus]]
 Gordon Plotkin, 1974
 
-An [[https://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf][intro]] to the work by Ben Greenman. 
+An [[https://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf][intro]] to the work by Ben Greenman.
+
+*** Towards a formal semantics
+Christopher Strachey (1966)
+
+*** [[https://ropas.snu.ac.kr/~kwang/520/readings/sco70.pdf][Outline of a mathematical theory of computation]]
+Dana Scott
+https://pllab.github.io/plrg/posts/2017-08-10-outline-mathematical-theory-computation.html
 
 ** To describe
 
