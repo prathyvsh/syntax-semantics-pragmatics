@@ -18,6 +18,8 @@ Author qualifies operational semantics as mapping one language to another with i
 
 This is contrasted with Denotational Semantics which maps to mathematical entities that exists outside the language. One of Dana Scott’s criticism of Operational Semantics was that the untyped nature of Lambda Calculus showed that there wasn’t a way to identify it with mathematical objects.
 
+The essential tension of how formalism entails an infinite regress of formal languages and Platonism leads to an axiomatic system that maps to mathematical objects is described. There’s a survey of literature that questions the epistemological viewpoint of Platonism. But the author comes to view that if formal languages can be thought of as games whose rules we follow, there is no account of how such an invented system can be applicable to reality. Also, this view of non-conformance would mean that it is not a theory of meaning (semantics) anymore but just a tower of syntax with no mapping to an outside reality.
+
 *** The Definition of Programming Languages
 A.D. McGettrick
 
