@@ -13,14 +13,14 @@ Some key figures of this field are Dana Scott, Christopher Strachey, Peter Landi
 *** [[http://aleteya.cs.buap.mx/~jlavalle/flp/understanding-programming-languages.pdf][Understanding Programming Languages]]
 Read (8 September 2020)
 
-The paper describes the Formalist vs. Platonic divide in the semantic studies that emerged in the 1960s.
-Author qualifies operational semantics as mapping one language to another with its execution mapped to reduction/evaluation in the mapped language. One prominent example is the use of Lambda Calculus abstraction/application used to map to functional procedures and calls.
+The paper describes formalist vs. platonic divide in the semantic studies that emerged in the 1960s.
+Author qualifies initial instance of operational semantics as mapping one language to another with its execution mapped to reduction/evaluation in the mapped language. One prominent example is the use of Lambda Calculus abstraction/application used to map to functional procedures and calls in programming languages.
 
-This is contrasted with Denotational Semantics which maps to mathematical entities that exists outside the language. One of Dana Scott’s criticism of Operational Semantics was that the untyped nature of Lambda Calculus showed that there wasn’t a way to identify it with mathematical objects.
+This is contrasted with denotational semantics which maps to mathematical entities that exists outside the language. One of Dana Scott’s criticism of operational semantics was that the untyped Lambda Calculus didn’t have a way to identify it’s structures with mathematical objects.
 
-The essential tension of how formalism entails an infinite regress of formal languages and Platonism leads to an axiomatic system that maps to mathematical objects is described. There’s a survey of literature that questions the epistemological viewpoint of Platonism. But the author comes to view that if formal languages can be thought of as games whose rules we follow, there is no account of how such an invented system can be applicable to reality. Also, this view of non-conformance would mean that it is not a theory of meaning (semantics) anymore but just a tower of syntax with no mapping to an outside reality.
+The essential tension of how formalism entails an infinite regress of formal languages and platonism leads to an axiomatic system that maps to mathematical objects is described. There’s a survey of literature that questions the epistemological viewpoint of Platonism. But the author comes to view that if formal languages can be thought of as games whose rules we follow, there is no account of how such an invented system can be applicable to reality. Also, this view of non-conformance would mean that it is not a theory of meaning (semantics) anymore but only a tower of syntax with no mapping to an outside reality.
 
-The paper concludes by outlining that the tension still exist when study of semantics is situated in the general philosophical setting. Both the formalist/platonic positions can be seen to apply to either semantics as their ultimate meaning is a philosophical question. It describes a Wittgensteinian view towards the end that the form of life / community of practice constituted by appropriate training determines the meaning of programming language in its use.
+The paper concludes by outlining that the tension still exist when study of semantics is situated in the general philosophical setting. Both the formalist/platonic positions can be seen to apply to either semantics as the ultimate meaning of these semantics is a philosophical question. The paper describes a Wittgensteinian view towards the end that the form of life / community of practice constituted by appropriate training determines the meaning of programming language in its use.
 
 *** The Definition of Programming Languages
 A.D. McGettrick
