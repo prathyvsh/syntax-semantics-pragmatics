@@ -66,8 +66,18 @@ The famous paper that introduce L-values, R-values, and brought much needed conc
 *** [[https://www.cs.cmu.edu/~kw/scans/scott93tcs.pdf][A Type Theoretical Alternative to ISWIM, CUCH, OWHY]]
 Dana Scott (1993)
 
-*** Definitional interpreters for higher-order programming languages (1998)
+*** [[http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.110.5892][Definitional interpreters for higher-order programming languages (1972)]]
 John Reynolds
+
+In this paper John Reynolds divides the space of programming languages into ones that use higher order functions vs. ones that have application order.
+
+| | Has Higher Order Function | No Higher Order Functions |
+|-------------------|------------|------------------------|
+| *Has Application Order* | Gedanken| Lisp |
+| *No Application Order* | Morris-Wadsworth Method | SECD |
+
+and then performs a conversion across these languages to show how properties of the interpreting language determines the application order in the interepreted language.
+
 
 *** [[https://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf][Call by Name, Call by Value, and the Lambda Calculus]]
 Gordon Plotkin, 1974
@@ -97,5 +107,8 @@ Rydeheard and Burstall
  
 *** [[https://archive.is/5XxJ0][An axiomatic basis for computer programming]]
 C.A.R Hoare
+
+** Talks
+*** [[https://skillsmatter.com/skillscasts/8261-papers-we-love-meetup][Philip Wadler on Reynolds’s ‘Definitional Interpreters for Higher-Order Programming Languages’]]
 
 * Pragmatics
