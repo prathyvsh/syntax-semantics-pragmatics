@@ -8,6 +8,12 @@ A collection of notes and resources on understanding language theory.
 
 Some key figures of this field are Dana Scott, Christopher Strachey, Peter Landin, John McCarthy, Gordon Plotkin, John Reynolds.
 
+Found out about Paul Portner’s work.
+
+Also add Lucas Champollion’s works here. There seems to be a direct link with mereology and linguistics.
+
+Add algebraic semiotics here.
+
 ** Surveys
 
 *** [[http://aleteya.cs.buap.mx/~jlavalle/flp/understanding-programming-languages.pdf][Understanding Programming Languages]]
